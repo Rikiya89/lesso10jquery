@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* div{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    display: none;
+} */
+dl{
+    width: 300px;
+    margin: 50px auto;
+}
+dl dt{
+    background-color: aquamarine;
+    cursor: pointer;
+    padding: 10px;
+}
+
+dl dd {
+    border: 1px solid aquamarine;
+    height: 300px;
+    margin: 0;
+    padding: 10px;
+}
+/* 
+img{
+    display: none;
+    opacity: 0;
+} */
+
+p {
+    width: 2720px;
+    height: 506px;
+    margin: 0;
+}
+div {
+    width: 900px;
+    height: 506px;
+    overflow: hidden;
+}
+
+img{
+    width: 900px;
+}
